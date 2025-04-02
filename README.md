@@ -3,7 +3,8 @@ Fraud Detector, implemented using HTML, CSS, JavaScript
 ------------------------------------------------------------
  A web-based tool designed to help users verify the safety of URLs, utilizing the Google Safe
  Browsing API and a custom blacklist to detect malicious links. It protects users from phishing,
- malware, and fraudulent websites, enhancing online security.
+ malware, and fraudulent websites, enhancing online security and  Also developed an app to 
+use on Android mobiles.  
 
 link 
 ------------------
